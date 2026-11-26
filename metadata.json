@@ -1,0 +1,6 @@
+{
+  "name": "課堂名單分組與抽籤助手",
+  "description": "專為教師設計的課堂名單管理、重複姓名檢查、隨機抽籤與自動分組並匯出 CSV 工具。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
